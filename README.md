@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **MERN Stack, Cloud Computing**
 
-- 📫 How to reach me **gauravlad137@gmail.com**
+- ### [I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck](I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck)
 
-- ⚡ Fun fact **Coding like poetry should be short and concise**
+- ⚡ Fun fact --> **Coding like poetry should be short and concise**
+
+- 📫 How to reach me **https://www.linkedin.com/in/gaurav-lad-a3b053247**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
