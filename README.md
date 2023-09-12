@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **MERN Stack, Cloud Computing**
 
-- ### [I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck](I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck)
+- ---> I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck [<---](<---)
 
 - ⚡ Fun fact --> **Coding like poetry should be short and concise**
-
-- 📫 How to reach me **https://www.linkedin.com/in/gaurav-lad-a3b053247**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-137&show_icons=true&locale=en" alt="gaurav-137" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-137&theme=highcontrast" alt="gaurav-137" /></p>
+
+
 
 
 
