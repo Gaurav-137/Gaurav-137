@@ -5,7 +5,7 @@
 
 - ---> I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck [<---](<---)
 
-- ⚡ Fun fact --> **Coding like poetry should be short and concise**
+- ⚡ Fun fact --> **Coding is like poetry should be short and concise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
