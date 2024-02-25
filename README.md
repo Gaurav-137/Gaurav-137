@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Cloud Computing**
 
-- ---> I’m not a great programmer; I’m just a good programmer with great habits.
-- ― Kent Beck [<---](<---)
+- --> { I’m not a great programmer; I’m just a good programmer with great habits. } ― Kent Beck <--
 
 - ⚡ Fun fact --> **Coding is like poetry should be short and concise**
 
