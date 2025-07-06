@@ -14,6 +14,7 @@ I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and M
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square&logo=nosql)
 
 ### Libraries & Framework :
 
@@ -33,6 +34,7 @@ I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and M
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Render" src="https://img.shields.io/badge/Render%20-%23000000.svg?logo=render&logoColor=white"></a>
 
 <!--## 💰 Support
 <p>
@@ -43,8 +45,8 @@ I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and M
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-137&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-137&theme=tokyonight" />
 </p>
 
 ## ✍️ Random Dev Quote
