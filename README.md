@@ -1,4 +1,4 @@
-## Hi, I am Gaurav! Great to see you here! 👋
+# Hi, I am Gaurav! Great to see you here! 👋
 
 I am Gaurav Lad, a frontend and backend developer with hands-on experience on cloud services provider platforms like AWS and Microsoft Azure. Passionate about building impactful, user-centric solutions that solve real-world problems. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
