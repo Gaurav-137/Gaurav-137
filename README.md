@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gaurav Lad</h1>
+<h1 align="center">Hi, I'm Gaurav Lad👋</h1>
 <h3 align="center">A curious learner with lots of energy and optimism. Looking forward for contributing in all types of projects.</h3>
 
-## Hi, I am Kaiwalya! Great to see you here! 👋
+## Hi, I am Gaurav! Great to see you here! 👋
 
-I am Kaiwalya Koparkar, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and MLH Coach. I am a Full Stack Developer with experience building open-source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and MLH Coach. I am a Full Stack Developer with experience building open-source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-lad137/)](https://www.linkedin.com/in/gaurav-lad137/)
-[![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://hashnode.com/@GauravL137)](https://hashnode.com/@GauravL137)
+[![Linkedin Badge](https://img.shields.io/badge/-GauravLad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-lad137/)](https://www.linkedin.com/in/gaurav-lad137/)
+[![Hashnode Badge](https://img.shields.io/badge/-GauravLad-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://hashnode.com/@GauravL137)](https://hashnode.com/@GauravL137)
 [![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://link.kaiwalyakoparkar.com/)](https://link.kaiwalyakoparkar.com/)
 [![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@kaiwalya_koparkar)](https://youtube.com/@kaiwalya_koparkar)
