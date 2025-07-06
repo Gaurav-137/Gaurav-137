@@ -5,6 +5,7 @@ I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and M
 [![Linkedin Badge](https://img.shields.io/badge/-@GauravLad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-lad137/)](https://www.linkedin.com/in/gaurav-lad137/)
 [![Hashnode Badge](https://img.shields.io/badge/-GauravLad-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://hashnode.com/@GauravL137)](https://hashnode.com/@GauravL137)
 [![Gmail Badge](https://img.shields.io/badge/-ladgaurav601@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ladgaurav601@gmail.com)](mailto:ladgaurav601@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@GauravLad-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://x.com/GauravL15197023)](https://x.com/GauravL15197023)
 
 ## ⚡ Technologies
 
@@ -36,9 +37,10 @@ I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and M
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render%20-%23000000.svg?logo=render&logoColor=white"></a>
 
-## Developer's Tools:
+### Developer's Tools:
 
-![Eclipse](https://img.shields.io/badge/Eclipse%20AWS-232F3E?style=flat-square&logo=eclipse)
+![Eclipse](https://img.shields.io/badge/Eclipse%Eclipse-232F3E?style=flat-square&logo=eclipse)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IntelliJ-232F3E?style=flat-square&logo=intellij)
 
 <!--## 💰 Support
 <p>
