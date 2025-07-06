@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Gaurav Lad👋</h1>
-<h3 align="center">A curious learner with lots of energy and optimism. Looking forward for contributing in all types of projects.</h3>
-
 ## Hi, I am Gaurav! Great to see you here! 👋
 
 I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and MLH Coach. I am a Full Stack Developer with experience building open-source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
