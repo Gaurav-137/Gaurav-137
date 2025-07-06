@@ -36,6 +36,10 @@ I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and M
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render%20-%23000000.svg?logo=render&logoColor=white"></a>
 
+## Developer's Tools:
+
+![Eclipse](https://img.shields.io/badge/Eclipse%20AWS-232F3E?style=flat-square&logo=eclipse)
+
 <!--## 💰 Support
 <p>
 <a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
