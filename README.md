@@ -39,8 +39,7 @@ I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and M
 
 ### Developer's Tools:
 
-![Eclipse](https://img.shields.io/badge/Eclipse%Eclipse-232F3E?style=flat-square&logo=eclipse)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IntelliJ-232F3E?style=flat-square&logo=intellij)
+![Eclipse](https://img.shields.io/badge/Eclipse%20Eclipse-232F3E?style=flat-square&logo=eclipse)
 
 <!--## 💰 Support
 <p>
