@@ -1,6 +1,6 @@
 ## Hi, I am Gaurav! Great to see you here! 👋
 
-I am Gaurav Lad, Developer Advocate at Elestio, CNCF Ambassador, GCE 🚩, and MLH Coach. I am a Full Stack Developer with experience building open-source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Gaurav Lad, a frontend and backend developer with hands-on experience on cloud services provider platforms like AWS and Microsoft Azure. Passionate about building impactful, user-centric solutions that solve real-world problems. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-@GauravLad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-lad137/)](https://www.linkedin.com/in/gaurav-lad137/)
 [![Hashnode Badge](https://img.shields.io/badge/-GauravLad-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://hashnode.com/@GauravL137)](https://hashnode.com/@GauravL137)
