@@ -2,10 +2,12 @@
 
 I am Gaurav Lad, a frontend and backend developer with hands-on experience on cloud services provider platforms like AWS and Microsoft Azure. Passionate about building impactful, user-centric solutions that solve real-world problems. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gaurav%20Lad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-lad137/)
+<a href="https://www.linkedin.com/in/gaurav-lad137/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
+</a>
 [![Hashnode Badge](https://img.shields.io/badge/-GauravLad-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://hashnode.com/@GauravL137)](https://hashnode.com/@GauravL137)
 [![Gmail Badge](https://img.shields.io/badge/-ladgaurav601@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ladgaurav601@gmail.com)](mailto:ladgaurav601@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@Gaurav-Lad-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/GauravL15197023)
+[![Twitter Badge](https://img.shields.io/badge/-@GauravLad-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/GauravL15197023)
 
 ## ⚡ Technologies
 
