@@ -104,18 +104,6 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-137&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-137&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -142,5 +130,16 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:22c55e&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=90&section=footer" />
 </p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile 👋</strong><br/>
+  <sub>Backend • Cloud • Systems Engineering</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-GitHub-black?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-0f766e?style=flat"/>
+</p>
+
