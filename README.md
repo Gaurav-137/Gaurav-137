@@ -1,4 +1,23 @@
 <!-- ===================== HEADER ===================== -->
+<!-- Animated Gradient Background -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:22c55e&height=120&section=header" />
+</p>
+
+<!-- Sliding / Typing Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=38
+    &duration=3000
+    &pause=800
+    &color=22C55E
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Hi,+I'm+Gaurav+Lad;Backend+%26+Cloud+Engineer;Building+Scalable+Systems" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=200&section=header&text=Gaurav%20Lad&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
