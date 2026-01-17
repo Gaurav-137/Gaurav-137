@@ -37,44 +37,47 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 
 ## 🛠️ Technical Skills
 
-### 💻 Backend & Programming
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,javascript,react,d3" />
 </p>
 <p>
-  <strong>Python</strong> • <strong>Node.js</strong> • <strong>Java</strong>
+  <strong>HTML5</strong> • <strong>Tailwind CSS</strong> • <strong>JavaScript</strong> • <strong>React</strong> • <strong>D3.js</strong>
 </p>
 
 ---
 
-### 🌐 Web & API Development
+### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=express,fastapi,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postman" />
 </p>
 <p>
-  <strong>Express.js</strong> • <strong>FastAPI</strong> • <strong>Postman (API Testing)</strong>
+  <strong>Node.js</strong> • <strong>Express.js</strong> • <strong>FastAPI</strong> • <strong>Flask</strong><br/>
+  <strong>Postman</strong> • <strong>Insomnia</strong>
 </p>
 
 ---
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,couchbase,redis,supabase" />
 </p>
 <p>
-  <strong>PostgreSQL</strong> • <strong>MySQL</strong> • <strong>MongoDB</strong>
+  <strong>PostgreSQL</strong> • <strong>MongoDB</strong> • <strong>MySQL</strong><br/>
+  <strong>Couchbase</strong> • <strong>Redis</strong> • <strong>Supabase</strong>
 </p>
 
 ---
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud & DevOps Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,githubactions,gitlab,linux,docker,git" />
 </p>
 <p>
-  <strong>AWS (Cloud Services)</strong> • <strong>Docker</strong> • <strong>Linux</strong><br/>
-  <strong>Git</strong> • <strong>GitHub</strong>
+  <strong>AWS</strong> • <strong>GitHub Actions</strong> • <strong>CI/CD Pipelines</strong><br/>
+  <strong>GitLab</strong> • <strong>Linux</strong> • <strong>Docker</strong>
 </p>
+
 
 ---
 
