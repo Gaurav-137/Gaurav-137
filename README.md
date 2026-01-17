@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:06b6d4&height=200&section=header&text=Gaurav%20Lad&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=200&section=header&text=Gaurav%20Lad&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -144,3 +144,8 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f766e,100:22c55e&height=140&section=footer&text=Gaurav%20Lad%20%7C%20Backend%20%26%20Cloud&fontColor=ffffff&fontSize=20" />
+</p>
+
