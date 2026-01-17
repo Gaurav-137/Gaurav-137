@@ -130,16 +130,9 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=90&section=footer" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-137&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 <p align="center">
-  <strong>Thanks for visiting my profile 👋</strong><br/>
-  <sub>Backend • Cloud • Systems Engineering</sub>
+  <sub>Consistent learning • Building backend systems • Exploring cloud</sub>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-GitHub-black?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-0f766e?style=flat"/>
-</p>
-
