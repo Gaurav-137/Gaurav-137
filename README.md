@@ -107,11 +107,11 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-137&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-137&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YGaurav-137&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -135,9 +135,9 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME  
-- 📧 Email: YOUR_EMAIL@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- 💼 LinkedIn: https://www.linkedin.com/in/gaurav-lad137/
+- 📧 Email: gauravlad441@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/Gaurav-137  
 
 ---
 
@@ -146,6 +146,6 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f766e,100:22c55e&height=140&section=footer&text=Gaurav%20Lad%20%7C%20Backend%20%26%20Cloud&fontColor=ffffff&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=120&section=footer" />
 </p>
 
