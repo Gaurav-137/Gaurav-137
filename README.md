@@ -29,10 +29,10 @@ I am a **backend-focused software developer (fresher)** with a strong interest i
 
 I enjoy working on **system logic, databases, cloud infrastructure, monitoring, and automation** rather than UI-heavy development.
 
-- 🔹 Strong backend fundamentals and problem-solving skills  
-- 🔹 Hands-on experience with APIs, databases, and cloud services  
-- 🔹 Preparing for **AWS Cloud Practitioner Certification**  
-- 🔹 Interested in system reliability, monitoring, and production-style engineering  
+🔹 Strong backend fundamentals and problem-solving skills  
+🔹 Hands-on experience with APIs, databases, and cloud services  
+🔹 Preparing for **AWS Cloud Practitioner Certification**  
+🔹 Interested in system reliability, monitoring, and production-style engineering  
 
 ---
 
