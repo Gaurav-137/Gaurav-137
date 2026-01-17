@@ -119,7 +119,7 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YGaurav-137&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-137&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -142,10 +142,5 @@ I enjoy working on **system logic, databases, cloud infrastructure, monitoring, 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:22c55e&height=80&section=footer" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=120&section=footer" />
-</p>
-
