@@ -1,64 +1,116 @@
-# Hi, I am Gaurav! Great to see you here! 👋
-
-I am Gaurav Lad, a frontend and backend developer with hands-on experience on cloud services provider platforms like AWS and Microsoft Azure. Passionate about building impactful, user-centric solutions that solve real-world problems. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Gaurav%20Lad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-lad137/)
-[![Hashnode Badge](https://img.shields.io/badge/-GauravLad-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://hashnode.com/@GauravL137)](https://hashnode.com/@GauravL137)
-[![Gmail Badge](https://img.shields.io/badge/-ladgaurav601@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ladgaurav601@gmail.com)](mailto:ladgaurav601@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@GauravLad-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/GauravL15197023)
-
-## ⚡ Technologies
-
-### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square&logo=nosql)
-
-### Libraries & Framework :
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
-### DevOps & Cloud Tools:
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-<a href="#"><img alt="Render" src="https://img.shields.io/badge/Render%20-%23000000.svg?logo=render&logoColor=white"></a>
-
-### Developer's Tools:
-
-![Eclipse](https://img.shields.io/badge/Eclipse%20-232F3E?style=flat-square&logo=eclipse)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA%20-232F3E?style=flat-square&logo=intellij-idea)
-
-<!--## 💰 Support
-<p>
-<a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
-</p> -->
-
-## 📈 Stats
+<!-- Animated Header -->
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-137&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-137&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Gaurav%20Lad&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-## ✍️ Random Dev Quote
-<div align="center">
-<img class="img" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<h3 align="center">Backend & Cloud-Focused Software Developer | Fresher</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+## 👋 About Me
+
+I am a **backend-focused software developer (fresher)** with strong interest in **building scalable APIs, cloud-native systems, and data-driven backend services**.  
+I enjoy working close to system logic, databases, and cloud infrastructure rather than UI-heavy development.
+
+- 🔹 Strong fundamentals in backend development and system design concepts  
+- 🔹 Hands-on experience with REST APIs, databases, and cloud services  
+- 🔹 Actively learning **AWS** and preparing for **AWS Cloud Practitioner certification**  
+- 🔹 Passionate about automation, monitoring, and production-style engineering
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Backend & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java" />
+</p>
+
+### 🌐 Web & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=express,fastapi,postman" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AWS CloudOps Monitoring & Auto-Remediation System
+- Built a **serverless monitoring platform** using AWS Lambda, CloudWatch, EventBridge, and SNS  
+- Implemented automated health checks and self-healing workflows for cloud resources  
+- Designed audit logging and alerting aligned with **real-world SRE practices**
+
+### 🔹 Software Log Analyzer & Automated RCA
+- Developed a Python-based system to parse and classify application logs  
+- Detected recurring error patterns and generated automated **Root Cause Analysis (RCA)** reports  
+- Exposed analysis results via lightweight APIs for operational visibility
+
+### 🔹 Backend Systems & API Projects
+- Designed RESTful APIs using Node.js / Express and Python (FastAPI)  
+- Implemented authentication, validation, and database integrations  
+- Focused on clean architecture, error handling, and scalability
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Backend engineering best practices  
+- Cloud-native application design  
+- Monitoring, logging, and reliability engineering  
+- Preparing for **AWS Cloud Practitioner Certification**
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gaurav-lad137/  
+- 📧 Email: gauravlad441@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/Gaurav-137
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
+</p>
