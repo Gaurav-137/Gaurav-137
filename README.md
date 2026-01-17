@@ -81,7 +81,7 @@ I enjoy working close to system logic, databases, and cloud infrastructure rathe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-137&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ I enjoy working close to system logic, databases, and cloud infrastructure rathe
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-137&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
