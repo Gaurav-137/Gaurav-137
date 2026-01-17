@@ -1,9 +1,11 @@
-<!-- Animated Header -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Gaurav%20Lad&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Backend & Cloud-Focused Software Developer | Fresher</h3>
+<h3 align="center">
+Backend & Cloud-Focused Software Developer | Fresher
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -21,13 +23,15 @@
 
 ## 👋 About Me
 
-I am a **backend-focused software developer (fresher)** with strong interest in **building scalable APIs, cloud-native systems, and data-driven backend services**.  
-I enjoy working close to system logic, databases, and cloud infrastructure rather than UI-heavy development.
+I am a **backend-focused software developer (fresher)** with a strong interest in  
+**building scalable APIs, cloud-native systems, and backend services**.
 
-- 🔹 Strong fundamentals in backend development and system design concepts  
-- 🔹 Hands-on experience with REST APIs, databases, and cloud services  
-- 🔹 Actively learning **AWS** and preparing for **AWS Cloud Practitioner certification**  
-- 🔹 Passionate about automation, monitoring, and production-style engineering
+I enjoy working on **system logic, databases, cloud infrastructure, monitoring, and automation** rather than UI-heavy development.
+
+- 🔹 Strong backend fundamentals and problem-solving skills  
+- 🔹 Hands-on experience with APIs, databases, and cloud services  
+- 🔹 Preparing for **AWS Cloud Practitioner Certification**  
+- 🔹 Interested in system reliability, monitoring, and production-style engineering  
 
 ---
 
@@ -37,20 +41,39 @@ I enjoy working close to system logic, databases, and cloud infrastructure rathe
 <p>
   <img src="https://skillicons.dev/icons?i=python,nodejs,java" />
 </p>
+<p>
+  <strong>Python</strong> • <strong>Node.js</strong> • <strong>Java</strong>
+</p>
 
-### 🌐 Web & APIs
+---
+
+### 🌐 Web & API Development
 <p>
   <img src="https://skillicons.dev/icons?i=express,fastapi,postman" />
 </p>
+<p>
+  <strong>Express.js</strong> • <strong>FastAPI</strong> • <strong>Postman (API Testing)</strong>
+</p>
+
+---
 
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 </p>
+<p>
+  <strong>PostgreSQL</strong> • <strong>MySQL</strong> • <strong>MongoDB</strong>
+</p>
 
-### ☁️ Cloud & DevOps
+---
+
+### ☁️ Cloud, DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+<p>
+  <strong>AWS (Cloud Services)</strong> • <strong>Docker</strong> • <strong>Linux</strong><br/>
+  <strong>Git</strong> • <strong>GitHub</strong>
 </p>
 
 ---
@@ -59,18 +82,22 @@ I enjoy working close to system logic, databases, and cloud infrastructure rathe
 
 ### 🔹 AWS CloudOps Monitoring & Auto-Remediation System
 - Built a **serverless monitoring platform** using AWS Lambda, CloudWatch, EventBridge, and SNS  
-- Implemented automated health checks and self-healing workflows for cloud resources  
+- Implemented automated health checks and self-healing workflows  
 - Designed audit logging and alerting aligned with **real-world SRE practices**
+
+---
 
 ### 🔹 Software Log Analyzer & Automated RCA
 - Developed a Python-based system to parse and classify application logs  
-- Detected recurring error patterns and generated automated **Root Cause Analysis (RCA)** reports  
-- Exposed analysis results via lightweight APIs for operational visibility
+- Detected recurring error patterns and generated **Root Cause Analysis (RCA)**  
+- Exposed insights via lightweight APIs for operational visibility  
 
-### 🔹 Backend Systems & API Projects
-- Designed RESTful APIs using Node.js / Express and Python (FastAPI)  
+---
+
+### 🔹 Backend API & System Projects
+- Designed RESTful APIs using Node.js and Python  
 - Implemented authentication, validation, and database integrations  
-- Focused on clean architecture, error handling, and scalability
+- Focused on clean architecture, error handling, and scalability  
 
 ---
 
@@ -81,7 +108,7 @@ I enjoy working close to system logic, databases, and cloud infrastructure rathe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-137&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -89,7 +116,7 @@ I enjoy working close to system logic, databases, and cloud infrastructure rathe
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-137&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -99,15 +126,15 @@ I enjoy working close to system logic, databases, and cloud infrastructure rathe
 - Backend engineering best practices  
 - Cloud-native application design  
 - Monitoring, logging, and reliability engineering  
-- Preparing for **AWS Cloud Practitioner Certification**
+- AWS certification preparation  
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/gaurav-lad137/  
-- 📧 Email: gauravlad441@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/Gaurav-137
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME  
+- 📧 Email: YOUR_EMAIL@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
 
 ---
 
